@@ -3,12 +3,11 @@ date: 2017-07-16 23:23:14 +0200
 title: hugo version
 slug: hugo_version
 url: "/commands/hugo_version/"
-draft: true
 
 ---
 
 
-## hugo version
+## hugo versiondf sdg
 
 Print the version number of Hugosdg sdg sdg
 
