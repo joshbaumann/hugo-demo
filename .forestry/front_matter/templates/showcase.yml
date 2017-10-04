@@ -1,0 +1,59 @@
+---
+hide_body: false
+fields:
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: lastmod
+  label: Lastmod
+  type: text
+  hidden: false
+  default: ''
+- name: license
+  label: License
+  type: text
+  hidden: false
+  default: ''
+- name: licenseLink
+  label: Licenselink
+  type: text
+  hidden: false
+  default: ''
+- name: sitelink
+  label: Sitelink
+  type: text
+  hidden: false
+  default: ''
+- name: sourcelink
+  label: Sourcelink
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - showcase
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- name: toc
+  label: Toc
+  type: boolean
+  hidden: false
+  default: false
+- name: notesforauthors
+  label: Notesforauthors
+  type: text
+  hidden: false
+  default: Go to gohugo.io/contribute/documentation for more info
